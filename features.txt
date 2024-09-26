@@ -1,0 +1,53 @@
+Canvas on login page
+Lazy Loading 
+Search Functionality
+Dependabot
+Dockerise
+CI/CD
+
+
+Data fetch Done: 
+
+Separate Card:
+badgeDetailsIcon
+
+
+Implemented:
+
+
+>Username
+>Followers
+>Location
+>Badge 
+
+>Total Contributions
+>Issues Opened
+>Issues Closed
+>Total Commits
+>Total Pull Requests
+
+Separate Card:
+[getActiveDays()]
+>Active Days(activeDays)
+>Most Productive Date(mostProductiveDate) + maxContributionCount on that day(maxContributionCount)
+>Max. Streak(maxStreak)
+
+Separate Card:
+>Top Repo 1
+>Top Repo 2
+>Top Repo 3
+
+Separate Card:
+>Popular Pr name
+>Popular Pr state 
+>Popular Pr creation date 
+>Popular Pr URL
+
+Separate Card:
+[getMostUsedLanguage()]
+>Most used languages[Array of 5]
+{Show using piechart by utilising chart.js}
+
+
+
+

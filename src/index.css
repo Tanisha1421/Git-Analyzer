@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  background-color: #212325;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* for scroll animation  */
+.active{
+  transform: translateY(0px);
+  opacity: 1;
+}
